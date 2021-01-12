@@ -1,0 +1,12 @@
+/Users/chris.vazquez/RiderProjects/test/test/test/bin/Debug/netstandard2.0/test.deps.json
+/Users/chris.vazquez/RiderProjects/test/test/test/bin/Debug/netstandard2.0/test.dll
+/Users/chris.vazquez/RiderProjects/test/test/test/bin/Debug/netstandard2.0/test.pdb
+/Users/chris.vazquez/RiderProjects/test/test/test/obj/Debug/netstandard2.0/test.csprojAssemblyReference.cache
+/Users/chris.vazquez/RiderProjects/test/test/test/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/chris.vazquez/RiderProjects/test/test/test/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/chris.vazquez/RiderProjects/test/test/test/obj/Debug/netstandard2.0/test.AssemblyInfoInputs.cache
+/Users/chris.vazquez/RiderProjects/test/test/test/obj/Debug/netstandard2.0/test.AssemblyInfo.cs
+/Users/chris.vazquez/RiderProjects/test/test/test/obj/Debug/netstandard2.0/test.csproj.CoreCompileInputs.cache
+/Users/chris.vazquez/RiderProjects/test/test/test/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/chris.vazquez/RiderProjects/test/test/test/obj/Debug/netstandard2.0/test.dll
+/Users/chris.vazquez/RiderProjects/test/test/test/obj/Debug/netstandard2.0/test.pdb

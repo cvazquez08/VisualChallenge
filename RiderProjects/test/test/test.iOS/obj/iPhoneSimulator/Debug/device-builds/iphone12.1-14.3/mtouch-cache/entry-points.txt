@@ -1,0 +1,1588 @@
+Function=SystemNative_ConvertErrorPlatformToPal
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/mscorlib.dll
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/System.dll
+Function=SystemNative_ConvertErrorPalToPlatform
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/mscorlib.dll
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/System.dll
+Function=SystemNative_StrErrorR
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/mscorlib.dll
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/System.dll
+Function=SystemNative_GetNonCryptographicallySecureRandomBytes
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_OpenDir
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetReadDirRBufferSize
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ReadDirR
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_CloseDir
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ReadLink
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_FStat2
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Stat2
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_LStat2
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Symlink
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ChMod
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_CopyFile
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetEGid
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetEUid
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_LChflags
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_LChflagsCanSetHiddenFlag
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Link
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_MkDir
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Rename
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_RmDir
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_UTime
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_UTimes
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Unlink
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_local_name
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_names
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_data
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_GetFolderPath
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_log
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/mscorlib.dll
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_get_locale_country_code
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_find_protocol_wrapper_type
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_release_block_on_main_thread
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_start_wwan
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/System.dll
+Function=xamarin_get_block_descriptor
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_stret
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_stret
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_NMatrix4
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_NMatrix4
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_NMatrix4
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_NMatrix4
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_stret
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_stret
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix3_objc_msgSend
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix3_objc_msgSendSuper
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix3_objc_msgSend_stret
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix3_objc_msgSendSuper_stret
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__CGPoint_objc_msgSend_NVector3_int_CGSize
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__CGPoint_objc_msgSendSuper_NVector3_int_CGSize
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__CGPoint_objc_msgSend_stret_NVector3_int_CGSize
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__CGPoint_objc_msgSendSuper_stret_NVector3_int_CGSize
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__CGPoint_objc_msgSend_NVector3_Int64_CGSize
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__CGPoint_objc_msgSendSuper_NVector3_Int64_CGSize
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__CGPoint_objc_msgSend_stret_NVector3_Int64_CGSize
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__CGPoint_objc_msgSendSuper_stret_NVector3_Int64_CGSize
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_CGPoint_NMatrix4_int_CGSize
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_CGPoint_NMatrix4_int_CGSize
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_stret_CGPoint_NMatrix4_int_CGSize
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_stret_CGPoint_NMatrix4_int_CGSize
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_CGPoint_NMatrix4_Int64_CGSize
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_CGPoint_NMatrix4_Int64_CGSize
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_stret_CGPoint_NMatrix4_Int64_CGSize
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_stret_CGPoint_NMatrix4_Int64_CGSize
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_int_CGSize_nfloat_nfloat
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_int_CGSize_nfloat_nfloat
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_stret_int_CGSize_nfloat_nfloat
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_stret_int_CGSize_nfloat_nfloat
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_Int64_CGSize_nfloat_nfloat
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_Int64_CGSize_nfloat_nfloat
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_stret_Int64_CGSize_nfloat_nfloat
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_stret_Int64_CGSize_nfloat_nfloat
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_int
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_int
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_stret_int
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_stret_int
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_Int64
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_Int64
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_stret_Int64
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_stret_Int64
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_NMatrix4_NVector3
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_NMatrix4_NVector3
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_NMatrix4_NVector3
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_NMatrix4_NVector3
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_NVector3_NVector3_int_int
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_NVector3_NVector3_int_int
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_NVector3_NVector3_Int64_Int64
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_NVector3_NVector3_Int64_Int64
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_CGPoint_NMatrix4
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_CGPoint_NMatrix4
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_stret_CGPoint_NMatrix4
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_stret_CGPoint_NMatrix4
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NMatrix4
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NMatrix4
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NMatrix4_NVector3_NVector3_IntPtr
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NMatrix4_NVector3_NVector3_IntPtr
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NVector3_IntPtr
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NVector3_IntPtr
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_IntPtr
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_IntPtr
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_stret_IntPtr
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_stret_IntPtr
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_IntPtr
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_IntPtr
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_stret_IntPtr
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_stret_IntPtr
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4x3_objc_msgSend
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4x3_objc_msgSendSuper
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4x3_objc_msgSend_stret
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4x3_objc_msgSendSuper_stret
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr_IntPtr_UInt32
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr_IntPtr_UInt32
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr_IntPtr_UInt64
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr_IntPtr_UInt64
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr_nint_nint_nint_UInt32
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr_nint_nint_nint_UInt32
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr_nint_nint_nint_UInt64
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr_nint_nint_nint_UInt64
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr_UInt32_nint_UInt32
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr_UInt32_nint_UInt32
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr_UInt64_nint_UInt64
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr_UInt64_nint_UInt64
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_stret
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_stret
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector2
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector2
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_stret
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_stret
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector3
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector3
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix3_objc_msgSend
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix3_objc_msgSendSuper
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix3_objc_msgSend_stret
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix3_objc_msgSendSuper_stret
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Matrix3
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Matrix3
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NMatrix3
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NMatrix3
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2i_objc_msgSend
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2i_objc_msgSendSuper
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2i_objc_msgSend_stret
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2i_objc_msgSendSuper_stret
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2i_int_int_bool
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2i_int_int_bool
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2i_int_int_bool_IntPtr
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2i_int_int_bool_IntPtr
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2i
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2i
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_Vector2_Vector2_IntPtr
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_Vector2_Vector2_IntPtr
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_Vector2_Vector2
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_Vector2_Vector2
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKTriangle_objc_msgSend_nuint
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKTriangle_objc_msgSendSuper_nuint
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKTriangle_objc_msgSend_stret_nuint
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKTriangle_objc_msgSendSuper_stret_nuint
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__float_objc_msgSend_Vector2
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__float_objc_msgSendSuper_Vector2
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector3d
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector3d
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSend
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSendSuper
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSend_stret
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSendSuper_stret
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Vector2d_Vector2d_Vector2i_bool
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Vector2d_Vector2d_Vector2i_bool
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__float_objc_msgSend_Vector2i
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__float_objc_msgSendSuper_Vector2i
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_float_Vector2i
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_float_Vector2i
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKBox_objc_msgSend
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKBox_objc_msgSendSuper
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKBox_objc_msgSend_stret
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKBox_objc_msgSendSuper_stret
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_GKBox_float
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_GKBox_float
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Vector3
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Vector3
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_GKBox
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_GKBox
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_GKBox
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_GKBox
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_nuint
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_nuint
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_stret_nuint
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_stret_nuint
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_nuint
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_nuint
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_stret_nuint
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_stret_nuint
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_GKQuad_float
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_GKQuad_float
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Vector2
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Vector2
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_GKQuad
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_GKQuad
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_GKQuad
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_GKQuad
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2_Vector2_float
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2_Vector2_float
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Vector2_Vector2
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Vector2_Vector2
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2_Vector2
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2_Vector2
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKQuad_objc_msgSend
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKQuad_objc_msgSendSuper
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKQuad_objc_msgSend_stret
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__GKQuad_objc_msgSendSuper_stret
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_IntPtr_Vector2_Vector2_int
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_IntPtr_Vector2_Vector2_int
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_IntPtr_Vector2_Vector2_Int64
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_IntPtr_Vector2_Vector2_Int64
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_IntPtr_Vector2_Vector2
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_IntPtr_Vector2_Vector2
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MPSAxisAlignedBoundingBox_objc_msgSend
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MPSAxisAlignedBoundingBox_objc_msgSendSuper
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MPSAxisAlignedBoundingBox_objc_msgSend_stret
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MPSAxisAlignedBoundingBox_objc_msgSendSuper_stret
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MPSImageHistogramInfo_objc_msgSend
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MPSImageHistogramInfo_objc_msgSendSuper
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MPSImageHistogramInfo_objc_msgSend_stret
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MPSImageHistogramInfo_objc_msgSendSuper_stret
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSend
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSendSuper
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSend_stret
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSendSuper_stret
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector4
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector4
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_ref_MPSImageHistogramInfo
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_ref_MPSImageHistogramInfo
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NMatrix4_Double
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NMatrix4_Double
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NMatrix4d_Double
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NMatrix4d_Double
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_Double
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_Double
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_stret_Double
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSendSuper_stret_Double
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSend_Double
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSendSuper_Double
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSend_stret_Double
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSendSuper_stret_Double
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Quaternion_Double
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Quaternion_Double
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Quaterniond_Double
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Quaterniond_Double
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaternion_objc_msgSend_Double
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaternion_objc_msgSendSuper_Double
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaternion_objc_msgSend_stret_Double
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaternion_objc_msgSendSuper_stret_Double
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaterniond_objc_msgSend_Double
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaterniond_objc_msgSendSuper_Double
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaterniond_objc_msgSend_stret_Double
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaterniond_objc_msgSendSuper_stret_Double
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector2_Double
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector2_Double
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector2d_Double
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector2d_Double
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_Double
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_Double
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_stret_Double
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_stret_Double
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSend_Double
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSendSuper_Double
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSend_stret_Double
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2d_objc_msgSendSuper_stret_Double
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NVector3_Double
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NVector3_Double
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NVector3d_Double
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NVector3d_Double
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_Double
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_Double
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSend_stret_Double
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3_objc_msgSendSuper_stret_Double
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3d_objc_msgSend_Double
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3d_objc_msgSendSuper_Double
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3d_objc_msgSend_stret_Double
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NVector3d_objc_msgSendSuper_stret_Double
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector4_Double
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector4_Double
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector4d_Double
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector4d_Double
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSend_Double
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSendSuper_Double
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSend_stret_Double
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4_objc_msgSendSuper_stret_Double
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4d_objc_msgSend_Double
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4d_objc_msgSendSuper_Double
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4d_objc_msgSend_stret_Double
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4d_objc_msgSendSuper_stret_Double
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSend
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSendSuper
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSend_stret
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4d_objc_msgSendSuper_stret
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NMatrix4d
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NMatrix4d
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSend
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSendSuper
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSend_stret
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSendSuper_stret
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NVector3
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NVector3
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSend_Double
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSendSuper_Double
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSend_stret_Double
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSendSuper_stret_Double
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSend
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSendSuper
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSend_stret
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSendSuper_stret
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_MDLAxisAlignedBoundingBox_bool
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_MDLAxisAlignedBoundingBox_bool
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector3_Vector3
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector3_Vector3
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_Vector2i_Vector2i
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_Vector2i_Vector2i
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_stret_Vector2i_Vector2i
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_stret_Vector2i_Vector2i
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_bool_IntPtr_Vector2i_nint_nuint_int_bool
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_bool_IntPtr_Vector2i_nint_nuint_int_bool
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_bool_IntPtr_Vector2i_nint_nuint_Int64_bool
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_bool_IntPtr_Vector2i_nint_nuint_Int64_bool
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_IntPtr_Vector2i_int_int_IntPtr_IntPtr
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_IntPtr_Vector2i_int_int_IntPtr_IntPtr
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_IntPtr_Vector2i_int_Int64_IntPtr_IntPtr
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_IntPtr_Vector2i_int_Int64_IntPtr_IntPtr
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_float_IntPtr_Vector2i
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_float_IntPtr_Vector2i
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_IntPtr_IntPtr_Vector2i
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_IntPtr_IntPtr_Vector2i
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_IntPtr
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_IntPtr
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Matrix4
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Matrix4
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt32_Vector2
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt32_Vector2
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt64_Vector2
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt64_Vector2
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt32_Vector3
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt32_Vector3
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt64_Vector3
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt64_Vector3
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt32_Vector4
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt32_Vector4
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt64_Vector4
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt64_Vector4
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt32_Matrix4
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt32_Matrix4
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt64_Matrix4
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt64_Matrix4
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt32_NMatrix4
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt32_NMatrix4
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_UInt64_NMatrix4
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_UInt64_NMatrix4
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector3i_bool_int_IntPtr
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector3i_bool_int_IntPtr
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector3i_bool_Int64_IntPtr
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector3i_bool_Int64_IntPtr
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_bool_int_IntPtr
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_bool_int_IntPtr
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_bool_Int64_IntPtr
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_bool_Int64_IntPtr
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_bool_bool_int_IntPtr
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_bool_bool_int_IntPtr
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_bool_bool_Int64_IntPtr
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_bool_bool_Int64_IntPtr
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_bool_bool_bool_int_IntPtr
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_bool_bool_bool_int_IntPtr
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_bool_bool_bool_Int64_IntPtr
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_bool_bool_bool_Int64_IntPtr
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_int_bool_int_IntPtr
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_int_bool_int_IntPtr
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_int_bool_Int64_IntPtr
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_int_bool_Int64_IntPtr
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_int_IntPtr
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_int_IntPtr
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector2i_Int64_IntPtr
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector2i_Int64_IntPtr
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_bool_int_IntPtr
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_bool_int_IntPtr
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_bool_Int64_IntPtr
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_bool_Int64_IntPtr
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_int_UInt32_IntPtr
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_int_UInt32_IntPtr
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector3i_int_bool_IntPtr
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector3i_int_bool_IntPtr
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_Vector3i_Int64_bool_IntPtr
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_Vector3i_Int64_bool_IntPtr
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2_Vector2i_int_IntPtr
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2_Vector2i_int_IntPtr
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector2_Vector2i_Int64_IntPtr
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector2_Vector2i_Int64_IntPtr
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_nuint_nuint_int_bool_bool_IntPtr
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_nuint_nuint_int_bool_bool_IntPtr
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector3_nuint_nuint_Int64_bool_bool_IntPtr
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector3_nuint_nuint_Int64_bool_bool_IntPtr
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_Vector2_nuint_nuint_int_bool_IntPtr
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_Vector2_nuint_nuint_int_bool_IntPtr
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_Vector2_nuint_nuint_Int64_bool_IntPtr
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_Vector2_nuint_nuint_Int64_bool_IntPtr
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_Vector2_nuint_nuint_nuint_int_bool_IntPtr
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_Vector2_nuint_nuint_nuint_int_bool_IntPtr
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_Vector2_nuint_nuint_nuint_Int64_bool_IntPtr
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_Vector2_nuint_nuint_nuint_Int64_bool_IntPtr
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__bool_objc_msgSend_Vector2i_nint_float_IntPtr_IntPtr_IntPtr
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__bool_objc_msgSendSuper_Vector2i_nint_float_IntPtr_IntPtr_IntPtr
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__bool_objc_msgSend_Vector2i_IntPtr_IntPtr_IntPtr_IntPtr
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__bool_objc_msgSendSuper_Vector2i_IntPtr_IntPtr_IntPtr_IntPtr
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_IntPtr_Vector2i_int
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_IntPtr_Vector2i_int
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_IntPtr_Vector2i_Int64
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_IntPtr_Vector2i_Int64
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_IntPtr_Vector2i_int_int_bool
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_IntPtr_Vector2i_int_int_bool
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_float_IntPtr_Vector2i_int_Int64_bool
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_float_IntPtr_Vector2i_int_Int64_bool
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_int_Vector2i_float_float_float_float
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_int_Vector2i_float_float_float_float
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Int64_Vector2i_float_float_float_float
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Int64_Vector2i_float_float_float_float
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_int_Vector2i_float_float_float_float_float
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_int_Vector2i_float_float_float_float_float
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Int64_Vector2i_float_float_float_float_float
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Int64_Vector2i_float_float_float_float_float
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_IntPtr_Vector2i
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_IntPtr_Vector2i
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_IntPtr_Vector2i_float
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_IntPtr_Vector2i_float
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Matrix4
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Matrix4
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Matrix4_bool
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Matrix4_bool
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_NMatrix4_bool
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_NMatrix4_bool
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_Double
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_Double
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_stret_Double
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_stret_Double
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSend_Double
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSendSuper_Double
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSend_stret_Double
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSendSuper_stret_Double
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector3_Double
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector3_Double
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Matrix4_Double
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Matrix4_Double
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSend_IntPtr_Double
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSendSuper_IntPtr_Double
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSend_stret_IntPtr_Double
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Matrix4_objc_msgSendSuper_stret_IntPtr_Double
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLVoxelIndexExtent2_objc_msgSend
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLVoxelIndexExtent2_objc_msgSendSuper
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLVoxelIndexExtent2_objc_msgSend_stret
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLVoxelIndexExtent2_objc_msgSendSuper_stret
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_MDLAxisAlignedBoundingBox_float
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_MDLAxisAlignedBoundingBox_float
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__bool_objc_msgSend_Vector4i_bool_bool_bool_bool
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__bool_objc_msgSendSuper_Vector4i_bool_bool_bool_bool
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Vector4i
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Vector4i
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_MDLVoxelIndexExtent2
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_MDLVoxelIndexExtent2
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4i_objc_msgSend_Vector3
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4i_objc_msgSendSuper_Vector3
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4i_objc_msgSend_stret_Vector3
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector4i_objc_msgSendSuper_stret_Vector3
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_Vector4i
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_Vector4i
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_stret_Vector4i
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_stret_Vector4i
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSend_Vector4i
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSendSuper_Vector4i
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSend_stret_Vector4i
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__MDLAxisAlignedBoundingBox_objc_msgSendSuper_stret_Vector4i
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_Vector3
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_Vector3
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSend_stret_Vector3
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector3_objc_msgSendSuper_stret_Vector3
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_Vector4
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_Vector4
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_vector_float3__Vector4_objc_msgSend
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_vector_float3__Vector4_objc_msgSendSuper
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_vector_float3__Vector4_objc_msgSend_stret
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_vector_float3__Vector4_objc_msgSendSuper_stret
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_vector_float3__void_objc_msgSend_Vector4
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_vector_float3__void_objc_msgSendSuper_Vector4
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaternion_objc_msgSend
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaternion_objc_msgSendSuper
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaternion_objc_msgSend_stret
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Quaternion_objc_msgSendSuper_stret
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_Quaternion
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_Quaternion
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix2_objc_msgSend
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix2_objc_msgSendSuper
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix2_objc_msgSend_stret
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix2_objc_msgSendSuper_stret
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSend_NMatrix2
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__void_objc_msgSendSuper_NMatrix2
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Vector4
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Vector4
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Matrix2
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Matrix2
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_NMatrix2
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_NMatrix2
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Matrix3
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Matrix3
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_NMatrix3
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_NMatrix3
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSend_IntPtr_Matrix4
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__IntPtr_objc_msgSendSuper_IntPtr_Matrix4
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_nint
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_nint
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSend_stret_nint
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__Vector2_objc_msgSendSuper_stret_nint
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_CGPoint__VNNormalizedFaceBoundingBoxPointForLandmarkPoint_Vector2_CGRect_nuint_nuint_string
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_CGPoint__VNImagePointForFaceLandmarkPoint_Vector2_CGRect_nuint_nuint_string
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=UIApplicationMain
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_1
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_2
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_3
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_4
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_5
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_6
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_7
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_8
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_localized_string_format_9
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_init_nsthread
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_os_log
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=NetSecurityNative_ReleaseGssBuffer
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_DisplayMinorStatus
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_DisplayMajorStatus
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ImportUserName
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ImportPrincipalName
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ReleaseName
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_InitiateCredSpNego
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_InitiateCredWithPassword
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_ReleaseCred
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_InitSecContext
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_InitSecContextEx
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_AcceptSecContext
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_DeleteSecContext
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_GetUser
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_Wrap
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/System.dll
+Function=NetSecurityNative_Unwrap
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/System.dll
+Function=SystemNative_GetDomainSocketSizes
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/System.Core.dll
+Function=BrotliDecoderCreateInstance
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=BrotliDecoderDecompressStream
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=BrotliDecoderDecompress
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=BrotliDecoderDestroyInstance
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=BrotliDecoderIsFinished
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=BrotliEncoderCreateInstance
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=BrotliEncoderSetParameter
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=BrotliEncoderCompressStream
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=BrotliEncoderHasMoreOutput
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=BrotliEncoderDestroyInstance
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/System.IO.Compression.dll
+Function=BrotliEncoderCompress
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/System.IO.Compression.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTextFieldColorThemer
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTextFieldFontThemer
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTextFieldTypographyThemer
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MaterialComponentsVersionNumber
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MaterialComponentsVersionString
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCCardScheme
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCChipFieldDefaultMinTextFieldWidth
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCChipFieldDefaultContentEdgeInsets
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCChipField
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCContainerScheme
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCActionSheetAction
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCActionSheetController
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCActivityIndicator
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCActivityIndicatorColorThemer
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCActivityIndicatorTransition
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCAlertAction
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCAlertColorThemer
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCAlertController
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCAlertControllerThemer
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCAlertControllerView
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCAlertScheme
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCAlertTypographyThemer
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCAppBar
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCAppBarColorThemer
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCAppBarContainerViewController
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCAppBarNavigationController
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCAppBarTypographyThemer
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCAppBarViewController
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCBannerView
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCBaseCell
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCBaseTextField
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCBasicColorScheme
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCBasicFontScheme
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCBottomAppBarColorThemer
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCBottomAppBarView
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCBottomDrawerColorThemer
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCBottomDrawerPresentationController
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCBottomDrawerTransitionController
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCBottomDrawerViewController
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCBottomNavigationBar
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCBottomNavigationBarColorThemer
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCBottomNavigationBarTypographyThemer
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCBottomSheetController
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCBottomSheetControllerShapeThemer
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCBottomSheetPresentationController
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCBottomSheetTransitionController
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCButton
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCButtonBar
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCButtonBarButton
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCButtonBarColorThemer
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCButtonBarTypographyThemer
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCButtonColorThemer
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCButtonScheme
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCButtonShapeThemer
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCButtonTitleColorAccessibilityMutator
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCButtonTypographyThemer
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCCard
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCCardCollectionCell
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCCardsColorThemer
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCCardsShapeThemer
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCCardThemer
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCChipCollectionViewCell
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCChipCollectionViewFlowLayout
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCChipView
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCChipViewColorThemer
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCChipViewFontThemer
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCChipViewScheme
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCChipViewShapeThemer
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCChipViewThemer
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCChipViewTypographyThemer
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+Field=kDeselectedCellAccessibilityHintKey
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+Field=kSelectedCellAccessibilityHintKey
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCCollectionViewCellStyleCardSectionInset
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCCollectionViewCell
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCCollectionViewController
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCCollectionViewFlowLayout
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCCollectionViewLayoutAttributes
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCCellDefaultOneLineHeight
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCCellDefaultOneLineWithAvatarHeight
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCCellDefaultThreeLineHeight
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCCellDefaultTwoLineHeight
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCCollectionViewTextCell
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCContainedButtonColorThemer
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCContainedButtonThemer
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCCornerTreatment
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCCurvedCornerTreatment
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCCurvedRectShapeGenerator
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCCutCornerTreatment
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCDialogPresentationController
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCDialogTransitionController
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCEdgeTreatment
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCFeatureHighlightAccessibilityMutator
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCFeatureHighlightColorThemer
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCFeatureHighlightFontThemer
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCFeatureHighlightTypographyThemer
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCFeatureHighlightView
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+Field=kMDCFeatureHighlightOuterHighlightAlpha
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCFeatureHighlightViewController
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCFilledTextFieldColorThemer
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCFlatButton
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCFlexibleHeaderColorThemer
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCFlexibleHeaderContainerViewController
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCFlexibleHeaderView
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCFlexibleHeaderViewController
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCFloatingActionButtonThemer
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCFloatingButton
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCFloatingButtonColorThemer
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCFloatingButtonShapeThemer
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCFontScaler
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCHeaderStackView
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCHeaderStackViewColorThemer
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCIcons
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCInkColorThemer
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCInkGestureRecognizer
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCInkTouchController
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCInkView
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCIntrinsicHeightTextView
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCKeyboardWatcherKeyboardWillChangeFrameNotification
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCKeyboardWatcherKeyboardWillHideNotification
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCKeyboardWatcherKeyboardWillShowNotification
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCKeyboardWatcher
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCLibraryInfo
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCListColorThemer
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCListScheme
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCListThemer
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCListTypographyThemer
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCMaskedTransitionController
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCMultilineTextField
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCNavigationBar
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCNavigationBarColorThemer
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCNavigationBarTextColorAccessibilityMutator
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCNavigationBarTypographyThemer
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCNumericValueLabel
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCOutlinedButtonColorThemer
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCOutlinedButtonThemer
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCOutlinedTextFieldColorThemer
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCOverlayObserver
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCOverlayWindow
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCPageControl
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCPageControlColorThemer
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCPaletteAccent100Name
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCPaletteAccent200Name
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCPaletteAccent400Name
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCPaletteAccent700Name
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCPaletteTint100Name
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCPaletteTint200Name
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCPaletteTint300Name
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCPaletteTint400Name
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCPaletteTint500Name
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCPaletteTint50Name
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCPaletteTint600Name
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCPaletteTint700Name
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCPaletteTint800Name
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCPaletteTint900Name
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCPalette
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCPathGenerator
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCPillShapeGenerator
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCProgressView
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCProgressViewColorThemer
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCRaisedButton
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCRectangleShapeGenerator
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCRippleTouchController
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCRippleView
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCRoundedCornerTreatment
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCSelfSizingStereoCell
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCSemanticColorScheme
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCShadowLayer
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCShadowMetrics
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCShapeCategory
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCShapedShadowLayer
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCShapedView
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCShapeScheme
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCSlantedRectShapeGenerator
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCSlider
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCSliderColorThemer
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCSnackbarColorThemer
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCSnackbarFontThemer
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCSnackbarManager
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCSnackbarMessageBoldAttributeName
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCSnackbarMessageDurationMax
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCSnackbarMessage
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCSnackbarMessageAction
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCSnackbarMessageView
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCSnackbarTypographyThemer
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCStatefulRippleView
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCSystemFontLoader
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTabBar
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTabBarColorThemer
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTabBarFontThemer
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTabBarIndicatorAttributes
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTabBarTypographyThemer
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTabBarUnderlineIndicatorTemplate
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCTabBarViewControllerAnimationDuration
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTabBarViewController
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTextButtonColorThemer
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTextButtonThemer
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCTextFieldTextDidSetTextNotification
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCTextInputDidToggleEnabledNotification
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTextField
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTextInputAllCharactersCounter
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTextInputBorderView
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+Field=MDCTextInputControllerBaseDefaultBorderRadius
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTextInputControllerBase
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTextInputControllerFilled
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTextInputControllerFullWidth
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTextInputControllerLegacyDefault
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTextInputControllerLegacyFullWidth
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTextInputControllerOutlined
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTextInputControllerOutlinedTextArea
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTextInputControllerUnderline
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTextInputUnderlineView
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCThumbTrack
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCThumbView
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTonalColorScheme
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTonalPalette
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTriangleEdgeTreatment
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTypography
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+ObjectiveCClass=OBJC_CLASS_$_MDCTypographyScheme
+	/Users/chris.vazquez/RiderProjects/test/test/test.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-14.3/mtouch-cache/1-Link/MaterialComponents.dll
+Function=mono_pmip
+Function=xamarin_dyn_objc_msgSend
+Function=xamarin_dyn_objc_msgSendSuper
+Function=xamarin_dyn_objc_msgSend_stret
+Function=xamarin_dyn_objc_msgSendSuper_stret

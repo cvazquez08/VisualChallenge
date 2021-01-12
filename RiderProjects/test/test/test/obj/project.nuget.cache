@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "xfPLEwPQa8X9oMlWWscIbL+1DobcaEl8bHOvvWN8Ap/zGZ1mETUxczppWmkSXBooqlFysycTWfp84gb/uZceIA==",
+  "success": true,
+  "projectFilePath": "/Users/chris.vazquez/RiderProjects/test/test/test/test.csproj",
+  "expectedPackageFiles": [
+    "/Users/chris.vazquez/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/chris.vazquez/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/chris.vazquez/.nuget/packages/xamarin.forms/5.0.0.1874/xamarin.forms.5.0.0.1874.nupkg.sha512",
+    "/Users/chris.vazquez/.nuget/packages/xamarin.forms.visual.material/4.8.0.1821/xamarin.forms.visual.material.4.8.0.1821.nupkg.sha512"
+  ],
+  "logs": []
+}
